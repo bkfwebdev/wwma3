@@ -2,7 +2,7 @@ import React from 'react';
 
 function SifuComponent() {
   return (
-    <div className="Sifu textcontent">
+    <div className="componentContainer">
      <h2>More About Sifu Bryant K. Feld</h2>
      <p>
      Sifu Bryant K. Feld has over fourty years experience in the martial arts. 

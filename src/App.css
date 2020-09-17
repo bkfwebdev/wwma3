@@ -24,6 +24,17 @@
   color: white;
 }
 
+.textcontent {
+  padding: 5%
+}
+
+.componentContainer {
+  margin-bottom: 1%;
+  margin-top: 1%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
 .App-link {
   color: #61dafb;
 }

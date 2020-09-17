@@ -2,7 +2,7 @@ import React from 'react';
 
 function PhilosophyComponent() {
   return (
-    <div className="MyPhilosophy textcontent" >
+    <div className="componentContainer" >
       <h1>The Warrior Wisdom Martial Arts Philosophy</h1>
      <p>Throughout human history there has been warrior culture, a culture that emphasizes mastery of self in order to deal with the challenges of a changing environment
         In every part of the globe from Africa, to Europe, to Asia, and even The Americas there has been a culture of warriorship passed down from master to disciple.

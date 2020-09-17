@@ -2,7 +2,7 @@ import React from 'react';
 
 function CaveatComponent() {
   return (
-    <div className="caveat textcontent">
+    <div className="componentContainer">
      <h2>Is this right for you?</h2>
      <p>
      Martial arts training provides a path to self mastery and the opportunity to change your nature, if you are willing to do the work. 
