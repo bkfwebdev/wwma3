@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bkfwebdev/wwma3/static/css/main.48aa1a7c.chunk.css",
+    "main.js": "/bkfwebdev/wwma3/static/js/main.db78b44b.chunk.js",
+    "main.js.map": "/bkfwebdev/wwma3/static/js/main.db78b44b.chunk.js.map",
+    "runtime-main.js": "/bkfwebdev/wwma3/static/js/runtime-main.a75ccb81.js",
+    "runtime-main.js.map": "/bkfwebdev/wwma3/static/js/runtime-main.a75ccb81.js.map",
+    "static/js/2.0a8da34e.chunk.js": "/bkfwebdev/wwma3/static/js/2.0a8da34e.chunk.js",
+    "static/js/2.0a8da34e.chunk.js.map": "/bkfwebdev/wwma3/static/js/2.0a8da34e.chunk.js.map",
+    "index.html": "/bkfwebdev/wwma3/index.html",
+    "precache-manifest.7052b3d303a8f861c4890f459cfab849.js": "/bkfwebdev/wwma3/precache-manifest.7052b3d303a8f861c4890f459cfab849.js",
+    "service-worker.js": "/bkfwebdev/wwma3/service-worker.js",
+    "static/css/main.48aa1a7c.chunk.css.map": "/bkfwebdev/wwma3/static/css/main.48aa1a7c.chunk.css.map",
+    "static/js/2.0a8da34e.chunk.js.LICENSE.txt": "/bkfwebdev/wwma3/static/js/2.0a8da34e.chunk.js.LICENSE.txt",
+    "static/media/smallwwma.png": "/bkfwebdev/wwma3/static/media/smallwwma.b24544cc.png",
+    "static/media/wisdomflower.jpg": "/bkfwebdev/wwma3/static/media/wisdomflower.4ce0d858.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a75ccb81.js",
+    "static/js/2.0a8da34e.chunk.js",
+    "static/css/main.48aa1a7c.chunk.css",
+    "static/js/main.db78b44b.chunk.js"
+  ]
+}
